@@ -1,0 +1,74 @@
+@media(max-width:800px)
+{
+
+   #menu
+{
+    height: 100px;
+    text-align: center;
+    
+}
+
+    #logo
+{
+    float: none;
+    line-height: 50px;
+    padding-left: 30px;
+    border-bottom: 1px solid #9e4040;
+}
+    .menu-all .menu-item
+{
+    float: left;
+    padding: 5px;
+    width: 15%;
+}
+    .menu-all .menu-item:hover
+{
+    background-color: #793333;
+}
+.menu-all
+{
+    padding-right: 0px;
+    width: 100%;
+} 
+    
+    #about
+{
+    width: 90%;
+}
+    .col-3
+    {
+        
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .col-left
+    {
+        margin-left: 0;
+    }
+
+.videoframe iframe{
+    width: 100%;!imprtant;
+    height: 100%;
+}
+    .contact .row .col-2
+    {
+        text-align: center;
+        width: 100%;
+    }
+    .col-2
+    {
+        width: 100%;
+    }
+    .contact
+    {
+        height: 1100px;
+    }
+
+    
+    .colsize-2
+    {
+        width: 100px;;
+    }
+    
+    
+}

@@ -1,0 +1,16 @@
+/*
+color:
+blue:#253342;
+red:#9e4040;
+grey:#cccccc;
+light-gray:#f2f4f4;
+*/
+
+@import url(menu.css);
+@import url(imageclass.css);
+@import url(about.css);
+@import url(tutorail.css);
+@import url(youtube.css);
+@import url(contact.css);
+@import url(footer.css);
+@import url(responsive.css);

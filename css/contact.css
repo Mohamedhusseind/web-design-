@@ -1,0 +1,52 @@
+#contact
+{
+    text-align: center;
+    background-color: #f2f4f4;
+    border: 10px;
+    border-color:blue;
+    padding: 50px;
+    height: 700px;
+}
+.contact .col-f2
+{
+    float: left;
+    width: 50%;
+}
+.row
+{
+    border: 10px;
+    border-color: blue;
+}
+input[type=text],textarea
+{
+    background-color: white;
+    width: 600px;
+    height: 60px;
+    border: 1px solid #999;
+    border-radius: 15PX;
+    direction: rtl;
+    margin: 5px 0;
+    padding: 0 20px;
+    font-weight: bold;
+    font-size: 14px;
+    
+    overflow: hidden;
+}
+textarea
+{
+       height: auto; 
+    max-height: 247px;
+    max-width: 607px;
+}
+.gmp_canvas
+{
+    overflow: hidden;
+    height: 600px;
+    width: 450px;
+}
+.contact.title
+{
+    overflow: hidden;
+    float: left;
+    position: fixed;
+}

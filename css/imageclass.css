@@ -1,0 +1,9 @@
+/*تنسيق الصوره*/
+.image_class
+{
+    background-image: url(../images/back2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 600px;
+}

@@ -1,0 +1,70 @@
+.session1
+{
+    text-align: center;
+    margin: 20px;
+}
+.tutorial
+{
+    padding-top: 50px;
+    background-color: #253342;
+    text-align: center;
+    color: #ccc;
+}
+.tutrial h1
+{
+    color: white;
+} 
+.row
+{
+   
+    height: 400px;
+    width: 90%;
+    margin: 50px;
+}
+.col-3 {
+ 
+    border: 1px solid #F2F4F4;
+    width: 32%;
+    float: left;
+    padding: 10PX;
+    border-radius: 15PX;
+    margin-right: 1%;
+    
+}
+.tut_header
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+.col-3 img
+{
+    border: 1px #ccc solid;
+        border-radius: 15px;
+    box-shadow: 0 5px 5px black;
+    width: 100%;
+}
+.col-left
+{
+    margin-left: 1%;
+}
+.cta-tut
+{
+    background-color: #999;
+    box-shadow: 0 5px white;
+    color: black;
+}
+
+.videoframe
+{
+    position: relative;
+    padding-bottom: 56.25%;/*16:9*/
+    padding-top:  25px;
+    height:100%;
+}
+.videoframe iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;!imprtant;
+    height: 100%;!imprtant;
+}
